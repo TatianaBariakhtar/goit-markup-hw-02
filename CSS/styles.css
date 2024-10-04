@@ -1,0 +1,70 @@
+ul{list-style: none;}
+a {text-decoration: none;}
+
+body{font-family: "Medium", "Regular","Bold", Roboto;
+"Raleway Bold"; "Raleway", sans-serif;
+    color:#2e2f42;
+background-color: E5E5E5;}
+.nav-logo{font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    }
+
+   .nav-list {font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.nav-logo span{
+   
+    color: #4d5ae5;}
+.contact-info-link: hover,
+.contact-info-link: :focus
+{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+    .about-subtitle, .team-name, .portfolio-project-title
+    {font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        
+    }
+ .about-text, .team-role, portfolio-project-type, footer-text {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+ } 
+
+.team-title, portfolio {font-weight: 700;
+    font-size: 36px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+    text-align: center;
+    }
+    .team-name {
+    text-align: center;
+     }
+   .team-role{
+    text-align: center;
+   }  
+.footer-logo
+{font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;}
+
+.footer-logo span {
+color: #4d5ae5;
+}
+.footer-text {color: #f4f4fd;}
+.hero button{cursor: pointer;}
