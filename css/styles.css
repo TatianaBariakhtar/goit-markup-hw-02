@@ -108,7 +108,7 @@ color: #fff;
         text-transform: capitalize;}
         .team-list 
         {background-color: #FFFFFF;}
-        .team-name {line-height: 1.11;
+        .team-name {line-height: 1.2
         color: #2e2f42;}
         .team-role {background-color: #FFFFFF;}
  .about-text, .team-role, portfolio-project-type, footer-text {
@@ -118,10 +118,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
  } 
- .team-item {background: #f4f4fd;}
+ .team-item {
+    background-color: #FFFFFF;}
 .team-title, .portfolio {font-weight: 700;
     font-size: 36px;
-    line-height: 1.12;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     }
@@ -145,7 +146,8 @@ color: #434455;
     .portfolio-project-type{ line-height: 1.5;
         letter-spacing: 0.02em;
     color: #434455;}
-    portfolio-project-type{font-size: 16px;}
+    portfolio-project-type
+    {font-size: 16px;}
     .footer{background-color: #2e2f42;
     }
 
