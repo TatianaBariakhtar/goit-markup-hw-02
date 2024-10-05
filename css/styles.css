@@ -140,9 +140,12 @@ color: #434455;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;}
+    .portfolio-title {color: #2e2f42;}
+    .portfolio-project-title{color: #2e2f42;}
     .portfolio-project-type{ line-height: 1.5;
         letter-spacing: 0.02em;
     color: #434455;}
+    portfolio-project-type{font-size: 16px;}
     .footer{background-color: #2e2f42;
     }
 
