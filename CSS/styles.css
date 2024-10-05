@@ -1,9 +1,10 @@
 ul{list-style: none;}
 a {text-decoration: none;}
 
-body{font-family: "Roboto", sans-serif
-    color:#434455;
+body {font-family: "Roboto", sans-serif;
+    color: #434455;
 background-color: #FFFFFF}
+
 .nav-logo{
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;
@@ -30,10 +31,10 @@ letter-spacing: 0.02em;
     
     .nav-list
     {color: #2e2f42;}
-    .nav-list: hover{
+    .nav-list:hover{
         color: #404bbf;
     }
-    .nav-list: :focus {color: #404bbf;}
+    .nav-list:focus {color: #404bbf;}
 
 .contact-info-link
 {font-weight: 400;
@@ -44,8 +45,8 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455}
-    .contact-info-link: hover,
-    .contact-info-link: focus{
+    .contact-info-link:hover,
+    .contact-info-link:focus{
         color: #404bbf;
     }
     .hero
@@ -53,18 +54,19 @@ letter-spacing: 0.02em;
      .hero-title {font-size: 56px; 
         line-height: 1.07;
         text-align: center;
-        letter-spacing: 0.02em
-        color: #ffffff}
+        letter-spacing: 0.02em;
+        color: #ffffff;
+        font-family: "Roboto", sans-serif;}
         .hero-button 
         {background-color: #4D5AE5;
             font-weight: 500;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.04em;
-            color: #ffffff}
-            .hero-button: hover,
-            .hero-button: focus {color: #404BBF}
-
+            color: #ffffff;}
+            .hero-button:hover,
+            .hero-button:focus {color: #404BBF}
+            .about{color: #2e2f42}
     .about-subtitle, .team-name, .portfolio-project-title
     {font-weight: 500;
         font-size: 20px;
@@ -72,11 +74,14 @@ letter-spacing: 0.02em;
         letter-spacing: 0.02em;
         
     }
-    .team{background-color: #F4F4FD;}
+    .team{background-color: #F4F4FD;
+    }
     .team-title
-    { line-height: 1.11;
-        text-transform: capitalize}
-        .team-list {background-color: #FFFFFF}
+    {color: #2e2f42; 
+        line-height: 1.11;
+        text-transform: capitalize;}
+        .team-list 
+        {background-color: #FFFFFF;}
  .about-text, .team-role, portfolio-project-type, footer-text {
     font-weight: 400;
 font-size: 16px;
@@ -97,7 +102,9 @@ color: #434455;
    .team-role{
     text-align: center;
    }  
-   .portfolio-title { font-size: 36px;
+   .portfolio-title {
+    color: #2e2f42;
+    font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
