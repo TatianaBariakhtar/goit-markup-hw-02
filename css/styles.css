@@ -45,6 +45,8 @@ letter-spacing: 0.02em;
         .nav-link:hover {color: #404bbf;}
 .contact-info-item {font-style: normal;}
 .contact-info-link{font-style: normal;}
+.contact-info
+{font-style: normal;}
 
 .contact-info-link
 {font-weight: 400;
