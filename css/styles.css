@@ -100,13 +100,17 @@ color: #fff;
     }
     .team{background-color: #F4F4FD;
     }
-    .team-title, .portfolio{ line-height: 1.11;}
+    .team-title, .portfolio {line-height: 1.11;}
     .team-title
-    {color: #2e2f42; 
+    {line-height: 1.11;
+        color: #2e2f42; 
         line-height: 1.11;
         text-transform: capitalize;}
         .team-list 
         {background-color: #FFFFFF;}
+        .team-name {line-height: 1.11;
+        color: #2e2f42;}
+        .team-role {background-color: #FFFFFF;}
  .about-text, .team-role, portfolio-project-type, footer-text {
     font-weight: 400;
 font-size: 16px;
